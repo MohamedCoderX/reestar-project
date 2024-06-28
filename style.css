@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0px;
+    font-family: "poppins",sans-serif;
+}
+.container{
+    padding: 20px;
+}
+.navbar{
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+.navbar h1{
+    font-size: 40px;
+}
+.contact-form td{
+    font-weight: 500;
+
+}
+.food_card{
+    display: inline-block;
+    border: solid black 1px;
+width: 300px;
+padding: 10px;
+margin-top: 10px;
+margin-bottom: 10px;
+    
+}
+.food_list{
+    text-align: center;
+}
+.contact-form{
+    margin-top: 10px;
+}
+.contact-form input{
+    padding: 10px;
+    outline: none;
+    border: none;
+    border-bottom: solid black 1px;
+}
+.contact-form textarea{
+  outline: none;
+    padding: 10px;
+    border: none;
+ border-bottom:solid black 1px;
+} 
+.contact-form button{
+    background-color:orangered;
+    color: white;
+padding-right: 14px;
+padding-left: 14px;
+padding-top: 10px;
+padding-bottom: 10px;
+margin-top: 10px;
+border-color: transparent;
+cursor: pointer;
+}
+.card_description button{
+    background-color:orangered;
+    color: white;
+padding-right: 14px;
+padding-left: 14px;
+padding-top: 10px;
+padding-bottom: 10px;
+margin-top: 10px;
+border-color: transparent;
+cursor: pointer;
+}
+.contact-form{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.contact-form form{
+    text-align: center;
+    display: inline-block;
+}
+.footer{
+
+    background-color: black;
+    text-align: center;
+    color: white;
+}
